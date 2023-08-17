@@ -43,8 +43,8 @@ ol{
 .website-nav:focus,
 .logotipe:hover,
 .lpgptipe:focus,
-.address-style:hover,
-.address-style:focus{
+.link:hover,
+.link:focus{
     color: #404bbf;
 }
 .button-service:hover,
@@ -85,7 +85,7 @@ ol{
     cursor: pointer;
 }
 
-.title-3{
+.title-three{
     color: #2E2F42;
     font-family: 'Roboto',sans-serif;
     font-size: 20px;
@@ -94,7 +94,7 @@ ol{
     line-height: 1.2;
     letter-spacing: 0.4px;
 }
-.title-2{
+.title-two{
     color: #2E2F42;
     text-align: center;
     font-family: 'Roboto',sans-serif;

@@ -41,13 +41,15 @@ ol{
 }
 .website-nav:hover,
 .website-nav:focus,
-.button-service:hover,
-.button-service:focus,
 .logotipe:hover,
 .lpgptipe:focus,
 .address-style:hover,
 .address-style:focus{
     color: #404bbf;
+}
+.button-service:hover,
+.button-service:focus{
+    background-color: #404bbf;
 }
 .website-nav:visited{
     color: #2E2F42;

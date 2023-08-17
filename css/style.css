@@ -32,7 +32,7 @@ ol{
 }
 .website-nav{
     color: #2E2F42;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -48,7 +48,7 @@ ol{
 }
 .link{
     color: #434455;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -58,7 +58,7 @@ ol{
 .hero-title{
     color: #FFF;
     text-align: center;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
@@ -67,7 +67,7 @@ ol{
 }
 .button-service{
     color: #FFF;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -81,7 +81,7 @@ ol{
 }
 .title-3{
     color: #2E2F42;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 20px;
     font-style: normal;
     font-weight: 500;
@@ -91,7 +91,7 @@ ol{
 .title-2{
     color: #2E2F42;
     text-align: center;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
@@ -100,7 +100,7 @@ ol{
     text-transform: capitalize;
 }
 .text{
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;
@@ -109,7 +109,7 @@ ol{
 }
 .footer-text{
     color: #F4F4FD;
-    font-family: 'Raleway',sans-serif;
+    font-family: 'Roboto',sans-serif;
     font-size: 16px;
     font-style: normal;
     font-weight: 400;

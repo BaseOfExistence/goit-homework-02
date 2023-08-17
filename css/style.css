@@ -125,7 +125,7 @@ ol{
     background-color: #FFF;
 }
 .hero-section {
-    background: #2E2F42;
+    background-color: #2E2F42;
 }
 .info-section{
     background-color: #FFF;
@@ -137,6 +137,9 @@ ol{
     background-color: #FFF;
 }
 .footer-section{
-    background: #2E2F42;
+    background-color: #2E2F42;
+}
+.s3ulbg{
+    background-color: #FFFFFF
 }
 

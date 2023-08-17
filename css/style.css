@@ -40,7 +40,13 @@ ol{
     letter-spacing: 0.32px;
 }
 .website-nav:hover,
-.website-nav:focus{
+.website-nav:focus,
+.button-service:hover,
+.button-service:focus,
+.logotipe:hover,
+.lpgptipe:focus,
+.address-style:hover,
+.address-style:focus{
     color: #404bbf;
 }
 .website-nav:visited{
@@ -76,12 +82,7 @@ ol{
     background-color: #4D5AE5;
     cursor: pointer;
 }
-.button-service:hover,
-.button-service:focus,
-.logotipe:hover,
-.lpgptipe:focus{
-    background-color: #404BBF;
-}
+
 .title-3{
     color: #2E2F42;
     font-family: 'Roboto',sans-serif;
